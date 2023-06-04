@@ -1,3 +1,5 @@
+//index.js
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
@@ -6,6 +8,8 @@ import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
+
+  //jhn pe id root h, whn pe app component ko daal do
   <React.StrictMode>
     <App />
   </React.StrictMode>
