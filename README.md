@@ -5,6 +5,7 @@ TextUtils is a powerful online text processing tool that simplifies and enhances
 # Features
 
 Text Analysis: Calculate word count and reading time of your text.
+
 Text Transformation: Convert text to uppercase, lowercase and remove extra spaces.
 
 # Getting Started with Create React App
