@@ -1,3 +1,12 @@
+#TextUtils
+
+TextUtils is a powerful online text processing tool that simplifies and enhances your text manipulation experience. With a range of features and a user-friendly interface, TextUtils enables users to analyze, transform, and optimize their textual content effortlessly.
+
+#Features
+
+Text Analysis: Calculate word count and reading time of your text.
+Text Transformation: Convert text to uppercase, lowercase and remove extra spaces.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
